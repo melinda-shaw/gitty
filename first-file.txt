@@ -1,1 +1,2 @@
 I made a change to the file.
+oh, I guess I sould add a message when I commit!
